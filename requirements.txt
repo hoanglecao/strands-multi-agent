@@ -1,0 +1,4 @@
+strands-agents[otel]
+jupyterlab
+ipykernel
+boto3
